@@ -49,7 +49,10 @@ li {
   background-color: black;
   color: gray;
   line-height: 375px;
-  margin: 0 8px;
+}
+
+.col {
+  margin-right: 26px;
 }
 
 footer {
